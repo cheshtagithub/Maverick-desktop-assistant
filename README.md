@@ -66,8 +66,3 @@ News Headlines: Latest US news fetched using NewsAPI
 
 Music Player: Plays music files stored locally on your computer
 
-<<<<<<< HEAD
-Website Launcher: Opens popular websites and local applications via voice commands
-=======
-Website Launcher: Opens popular websites and local applications via voice commands
->>>>>>> 68edcd84278c44202535d312af52518800b4763b
