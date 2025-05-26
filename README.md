@@ -35,18 +35,29 @@ python main.py
 The main Python libraries used include:
 
 SpeechRecognition — for voice input
+
 pyttsx3 — for text-to-speech output
+
 requests — to fetch weather and news data
+
 wikipedia — to retrieve information from Wikipedia
+
 pyjokes — to tell jokes
+
 pyaudio — to capture microphone input
 
 Refer to requirements.txt for the full list.
 
 🎤 Features
+
 Voice Interaction: Uses Google Speech Recognition API for converting your voice to text
+
 Wikipedia Search: Answers your questions by summarizing Wikipedia articles
+
 Weather Updates: Real-time weather information based on your location
+
 News Headlines: Latest US news fetched using NewsAPI
+
 Music Player: Plays music files stored locally on your computer
+
 Website Launcher: Opens popular websites and local applications via voice commands
