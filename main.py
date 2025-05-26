@@ -9,8 +9,8 @@ import requests
 import pyjokes
 
 # API keys (replace with your actual keys)
-***REMOVED***
-***REMOVED***
+weather_api_key = "Add your own API"
+news_api_key = "Add your own API"
 
 # Initialize text-to-speech engine
 engine = pyttsx3.init()
