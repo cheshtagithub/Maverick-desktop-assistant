@@ -29,7 +29,7 @@ news_api_key — get it from NewsAPI
 Update these keys in the appropriate variables inside main.py.
 4. Run the Assistant
 ```bash
-python maverick_assistant.py
+python main.py
 ```
 🛠️ Dependencies
 The main Python libraries used include:
@@ -42,6 +42,7 @@ pyjokes — to tell jokes
 pyaudio — to capture microphone input
 
 Refer to requirements.txt for the full list.
+
 🎤 Features
 Voice Interaction: Uses Google Speech Recognition API for converting your voice to text
 Wikipedia Search: Answers your questions by summarizing Wikipedia articles
