@@ -35,6 +35,7 @@ weather_api_key — get it from OpenWeatherMap
 news_api_key — get it from NewsAPI
 
 Update these keys in the appropriate variables inside main.py.
+
 4. Run the Assistant
 ```bash
 python main.py
