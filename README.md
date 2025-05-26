@@ -29,17 +29,8 @@ Make sure you have Python installed, then run:
 pip install -r requirements.txt
 ```
 
- HEAD
 3. Run the Assistant
 
-weather_api_key — get it from OpenWeatherMap
-
-news_api_key — get it from NewsAPI
-
-Update these keys in the appropriate variables inside main.py.
-
-4. Run the Assistant
->>>>>>> 68edcd84278c44202535d312af52518800b4763b
 ```bash
 python main.py
 ```
