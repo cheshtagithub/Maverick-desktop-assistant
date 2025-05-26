@@ -31,6 +31,7 @@ pip install -r requirements.txt
 For weather and news features, add your API keys in the script:
 
 weather_api_key — get it from OpenWeatherMap
+
 news_api_key — get it from NewsAPI
 
 Update these keys in the appropriate variables inside main.py.
