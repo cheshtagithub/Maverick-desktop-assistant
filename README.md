@@ -1,13 +1,20 @@
 🧠 Maverick - Voice Assistant
 Maverick is a Python-based desktop voice assistant designed to help you with everyday tasks using voice commands. It can:
+
 Answer questions using Wikipedia
+
 Provide current weather updates
+
 Fetch the latest news headlines
+
 Tell jokes
+
 Open websites like Google, YouTube, LinkedIn, and more
+
 Play music from a local folder
 
 🚀 Getting Started
+
 Follow these steps to set up and run Maverick on your machine.
 
 1. Clone the Repository
